@@ -10,3 +10,7 @@ TA_Lib-0.4.28-cp312-cp312-win32.whl
 TA_Lib-0.4.28-cp312-cp312-win_amd64.whl  
 ### 更多
 ###### https://www.cgohlke.com/
+
+
+test.zip 是Fast 基础模板
+Snipaste-2.11.3-x64.zip 截图工具
